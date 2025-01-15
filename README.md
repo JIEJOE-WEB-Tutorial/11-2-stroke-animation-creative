@@ -17,3 +17,4 @@
 - dot matrix：以SVG线段虚线描边来实现的点阵图像，通过描边动画来改变图形显示
 - image transmission：以SVG单一线段构成的图像，点击屏幕，可通过SVG的描边偏移属性来模拟一维图像传输
 - 以上三个效果文件都带有对应的注释，感兴趣的小伙伴可以自己探索
+- 该内容的基本原理，是在SVG的描边动画上建立的，详细请参考[链接](https://github.com/JIEJOE-WEB-Tutorial/011-svg-stroke-animation)
